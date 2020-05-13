@@ -1,0 +1,19 @@
+def return_name
+  puts "guy"
+  "guy"
+end
+
+return_name
+
+def return_name
+ "guy"
+ puts "guy"
+end
+
+return_name(name)
+ puts #{name}
+end
+
+guy
+nil
+return_name(x,y,z)
